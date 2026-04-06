@@ -28,7 +28,9 @@ int main() {
     cout << endl;
 
     cout << "Data Pertama = " << kamu[0] << endl;
-    cout << "Data Pertama = " << kamu[1] << endl;
-    cout << "Data Pertama = " << kamu[2] << endl;
-    cout << "Data Pertama = " << kamu[3] << endl;
+    cout << "Data Kedua = " << kamu[1] << endl;
+    cout << "Data Ketiga = " << kamu[2] << endl;
+    cout << "Data Keempat = " << kamu[3] << endl;
+    cout << "Data Kelimam =  " << kamu[4] << endl;
+    cout << endl;
 }
