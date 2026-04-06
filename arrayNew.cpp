@@ -39,4 +39,5 @@ int main() {
         cout << "Data index ke-" << i << " = ";
         cin >> kamu[i];
     }
+    cout << endl;
 }
