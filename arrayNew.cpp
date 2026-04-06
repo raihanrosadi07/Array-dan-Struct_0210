@@ -40,4 +40,9 @@ int main() {
         cin >> kamu[i];
     }
     cout << endl;
+
+    for (int i = 0; i <= 4; i++)
+    {
+        cout << "Data ke-" << i+i << " = " << kamu[i] << endl;
+    }
 }
